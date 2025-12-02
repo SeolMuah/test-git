@@ -1,0 +1,5 @@
+test
+
+git init (최초 한번)
+git add . (커밋 전)
+git commit -m "커밋 메시지" (커밋 실행 -> 버전 저장)
